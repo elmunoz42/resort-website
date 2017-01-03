@@ -1,0 +1,35 @@
+html {
+  background-color: ivory;
+}
+
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  color: #CC0070;
+  text-align: center;
+  font-size: 5rem;
+}
+
+h3 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.link {
+  color: #CC0070
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+#indeximg {
+  display: block;
+  margin: auto;
+  width: 40%;
+  border-radius:15%;
+}
+
+footer {
+  border-top: 2px solid lightgrey;
+  text-align: center;
+}
