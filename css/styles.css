@@ -58,6 +58,16 @@ p {
   border-radius:15%;
 }
 
+.imgs {
+  display: block;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+
 footer {
   border-top: 2px solid lightgrey;
   text-align: center;
