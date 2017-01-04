@@ -39,6 +39,11 @@ p {
   font-size: 1.2rem;
 }
 
+#map {
+  display: block;
+  margin: auto;
+
+}
 .link {
   color: #CC0070
   font-family: Impact, Charcoal, sans-serif;
